@@ -51,7 +51,7 @@ Las empresas financieras pierden miles de millones anuales por fraude con tarjet
 ## 🚀 Cómo ejecutar
 ```bash
 # Clonar repositorio
-git clone https://github.com/TU_USUARIO/fraud-detection.git
+git clone https://github.com/mastyo/fraud-detection.git
 cd fraud-detection
 
 # Instalar dependencias
